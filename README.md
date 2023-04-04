@@ -1,2 +1,10 @@
-<h1> <div align="center">你好</div></h1>
-<div style="text-align: center">一个熟悉C/C++, Java, Python, Javascript, Typescipt, NodeJs, Vue, SpringBoot, Linux, Docker, uniapp等单词的拼写的傻逼</div>
+<h1> <div align="center">Hi👋</div></h1>
+
+<div>I am a freshman currently studying at Jiangxi University of Finance and Economics</div>
+<h2><div>Skills</div></h2>
+
+- Learned C/C++, Java, Python, Javascript, Typescript, NodeJs, Vue, SpringBoot, Linux, Docker, uniapp
+
+<h2><div>Plans</div></h2>
+
+- Continuous learning
