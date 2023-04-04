@@ -1,6 +1,6 @@
 <h1> <div align="center">Hi👋</div></h1>
 
-<div>I am a freshman currently studying at Jiangxi University of Finance and Economics</div>
+<div align="center">I am a freshman currently studying at Jiangxi University of Finance and Economics</div>
 <h2><div>Skills</div></h2>
 
 - Learned C/C++, Java, Python, Javascript, Typescript, NodeJs, Vue, SpringBoot, Linux, Docker, uniapp
