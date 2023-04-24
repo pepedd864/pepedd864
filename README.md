@@ -8,7 +8,7 @@
 <p>
   
   ![pepedd864's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepedd864)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepedd864&layout=compact)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
