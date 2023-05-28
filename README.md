@@ -5,6 +5,7 @@
 
 <h3 align="left">About me:</h3>
 
+<details>
 <p align="center">
   <a href="https://github.com/pepedd864">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pepedd864&theme=transparent" />
