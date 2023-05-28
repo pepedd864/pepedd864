@@ -27,9 +27,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pepedd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pepedd" /></a></p><br><br>
-
-<p align="center">
-  <a href="https://github.com/pepedd864">
-    <img src="https://komarev.com/ghpvc/?username=pepedd864&color=blue&style=flat)" />
-  </a>
-</p>
