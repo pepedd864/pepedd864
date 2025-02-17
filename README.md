@@ -7,6 +7,7 @@
   - 个人博客：https://healwrap.cn/
   - 掘金：https://juejin.cn/user/189564192303479
   - bilibili: https://space.bilibili.com/442709221
+- 个人项目概览： https://gallery.healwrap.cn/
 - Github活动概览
 
 [![](https://github-readme-stats.vercel.app/api?username=pepedd864&hide=issues)](https://github.com/pepedd864/github-readme-stats)
